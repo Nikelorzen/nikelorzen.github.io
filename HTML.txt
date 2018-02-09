@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<head> <title> ЕБАТЬ КРУТО </title> </head>
+<body bgcolor=#FF69B4>
+<p align=center>
+<img src=ilya.png border=2px />
+</p>
+<p align=center>
+<b><big> You not you, when you hungry!</big> </b>
+<p align=center> <b><big> Не тормози, хуйца сосни!</big> </b> </p>
+<p align=center> <audio src="АЗА%23ZLO%20feat.%20Линник%20-%20SSC%20Tuatara.mp3" controls autoplay> </audio> </p>
+</body>
+<!DOCTYPE html>
